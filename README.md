@@ -1,5 +1,5 @@
 # Bhimsen Basnet
-I am interested in Interface Design and Backend Development.
+Primarily interested in Interface Design and Backend Development.
 
 
 ## 🌐 Socials:
